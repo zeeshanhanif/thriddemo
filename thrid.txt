@@ -3,3 +3,6 @@ Hello world
 New changes
 
 updated for fast forward
+
+
+updated for merge commit
